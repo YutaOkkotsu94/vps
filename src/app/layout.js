@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Valenton Palestine Solidarité',
+  title: 'Palestine Solidarité',
   description: 'Association de soutien au peuple palestinien',
 };
 
@@ -10,3 +10,5 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
+import './globals.css';
