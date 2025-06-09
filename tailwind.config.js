@@ -9,6 +9,13 @@ module.exports = {
     extend: {
       fontFamily: {
         dm: ['var(--font-dm-sans)', 'sans-serif'],
+        oswald: ['var(--font-oswald)'],
+      },
+      fontWeight: {
+        normal: 400,
+        semibold: 600,
+        bold: 700,
+        extrabold: 800,
       },
     },
   },
